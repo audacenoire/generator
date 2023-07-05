@@ -1,0 +1,41 @@
+body {
+    background: rgb(75, 75, 75);
+}
+
+
+.main-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#generator {
+    margin: auto;
+    color: rgb(250, 250, 250);
+    background-color: rgb(0, 0, 150);
+    border: none;
+    border-radius: 0.3em;
+    font-size: 1.5em;
+    font-weight: bold;
+    padding: 0.5em 1em;
+
+}
+
+.instructions {
+    color: #ddd;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.character-description {
+    font-family: sans-serif;
+    font-size: 22px;
+    margin: 2em auto;
+    color: #888;
+}
+
+.hidden {
+    display: none;
+}
