@@ -76,6 +76,7 @@ let trait = [
 	"scheming",
 	"greedy",
 	"vain",
+	"cruel"
 	
 	]
 
