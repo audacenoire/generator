@@ -1,0 +1,30 @@
+
+---<DATA>---
+
+BASICS
+    Clan
+    Generation
+
+ATTRIBUTES
+    Physical
+        Strength
+        Dexterity
+        Stamina
+   
+    Social
+        Charisma
+        Manipulation
+        Appearance
+
+    Mental
+        Perception
+        Intelligence
+        Wits
+
+
+
+---<DESIGN>---
+
+3 column grid layout 
+
+Represent stats with empty and filled dots 
